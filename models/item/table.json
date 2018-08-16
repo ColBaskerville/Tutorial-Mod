@@ -1,0 +1,11 @@
+{
+   "parent": "tm:block/table",
+   "display":
+   {
+        "firstperson_righthand":
+        {
+            "translation": [0, 1, 0],
+            "scale": [1.5, 1.5, 1.5]
+        }
+   }
+}
