@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "axis=y,variant=apple":    { "model": "tm:log_apple" },
+        "axis=z,variant=apple":     { "model": "tm:log_apple", "x": 90 },
+        "axis=x,variant=apple":     { "model": "tm:log_apple", "x": 90, "y": 90 },
+        "axis=none,variant=apple":   { "model": "tm:log_apple" }
+       
+    }
+}

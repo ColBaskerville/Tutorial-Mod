@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "variant=apple": { "model": "tm:planks_apple" }
+    }
+}

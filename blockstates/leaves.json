@@ -1,0 +1,7 @@
+{
+    "variants":
+    {
+        "variant=apple": { "model": "tm:leaves_apple" }
+    }
+    
+}

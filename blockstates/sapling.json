@@ -1,0 +1,6 @@
+{
+    "variants": 
+    {
+        "variant=apple": { "model": "tm:sapling_apple" }
+    }
+}
